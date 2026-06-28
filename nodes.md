@@ -19,11 +19,11 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2|
 | ✅ | 6 | 12h |https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt|
 | ✅ | 18 | 1h |https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85|
-| ✅ | 319 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt|
-| ✅ | 28 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt|
+| ✅ | 315 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt|
+| ✅ | 32 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt|
 | ✅ | 13 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vmess.txt|
-| ✅ | 56 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/trojan.txt|
-| ✅ | 452 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt|
+| ✅ | 53 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/trojan.txt|
+| ✅ | 460 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt|
@@ -32,7 +32,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt|
 | ✅ | 580 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub1.txt|
-| ✅ | 598 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub2.txt|
+| ✅ | 596 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub2.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub1.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub2.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub3.txt|
@@ -62,8 +62,8 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-19.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-20.txt|
 | ✅ | 6 | 1h |https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt|
-| ✅ | 594 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
-| ✅ | 3999 | 1h |https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt|
+| ✅ | 588 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
+| ✅ | 3997 | 1h |https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2|
 | ✅ | 7 | 1h |https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt|
