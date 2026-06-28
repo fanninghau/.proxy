@@ -13,7 +13,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | 0 | 1h |https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
 | ✅ | 74 | 1h |https://raw.githubusercontent.com/ccpthisbigdog/freedomchina/refs/heads/main/subdom.txt|
 | ✅ | 369 | 1h |https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt|
-| ✅ | 21 | 1h |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
+| ✅ | 29 | 1h |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
 | ✅ | 2 | 1h |https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together|
 | ✅ | 129 | 1h |https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2|
@@ -32,7 +32,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt|
 | ✅ | 580 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub1.txt|
-| ✅ | 595 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub2.txt|
+| ✅ | 596 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub2.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub1.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub2.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub3.txt|
@@ -62,13 +62,13 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-19.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-20.txt|
 | ✅ | 6 | 1h |https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt|
-| ✅ | 594 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
-| ✅ | 3997 | 1h |https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt|
+| ✅ | 588 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
+| ✅ | 3999 | 1h |https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2|
 | ✅ | 7 | 1h |https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt|
-| ✅ | 207 | 1h |https://cdn.jsdelivr.net/gh/Arianlavi/Rebeldev@main/RebelLink/all_subscriptions.txt|
-| ✅ | 778 | 1h |https://cdn.jsdelivr.net/gh/ALIILAPRO/v2rayNG-Config@main/server.txt|
+| ✅ | 20 | 1h |https://cdn.jsdelivr.net/gh/Arianlavi/Rebeldev@main/RebelLink/all_subscriptions.txt|
+| ✅ | 879 | 1h |https://cdn.jsdelivr.net/gh/ALIILAPRO/v2rayNG-Config@main/server.txt|
 | ✅ | 1 | 6h |https://cdn.jsdelivr.net/gh/snakem982/proxypool@main/source/v2ray-2.txt|
 | ❌ | 0 | 1h |https://cdn.jsdelivr.net/gh/SamanGho/v2ray_collector@main/last_150.txt|
 | ✅ | 15 | 1h |https://cdn.jsdelivr.net/gh/penhandev/AutoAiVPN@main/AtuoAiVPN.txt|
@@ -78,7 +78,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 150 | 1h |https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt|
 | ❌ | 0 | 1h |https://cdn.jsdelivr.net/gh/kort0881/vpn-key-vless@main/vpn-files/1.txt|
 | ❌ | 0 | 6h |https://cdn.jsdelivr.net/gh/kismetpro/NodeSuber@main/out/All_Configs_Sub.txt|
-| ✅ | 19 | 1h |https://cdn.jsdelivr.net/gh/Pawdroid/Free-servers@main/sub|
+| ✅ | 14 | 1h |https://cdn.jsdelivr.net/gh/Pawdroid/Free-servers@main/sub|
 | ✅ | 218 | 1h |https://cdn.jsdelivr.net/gh/mfuu/v2ray@master/v2ray|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202605312|
 | ✅ | 178 | 1h |https://github.cmliussss.net/https://raw.githubusercontent.com/qmqv/jd07/refs/heads/main/v207-1010.txt|
