@@ -23,7 +23,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 29 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt|
 | ✅ | 10 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vmess.txt|
 | ✅ | 57 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/trojan.txt|
-| ✅ | 451 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt|
+| ✅ | 456 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt|
@@ -62,14 +62,14 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-19.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-20.txt|
 | ✅ | 6 | 1h |https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt|
-| ✅ | 590 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
-| ✅ | 3999 | 1h |https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt|
+| ✅ | 588 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
+| ✅ | 3998 | 1h |https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2|
 | ✅ | 7 | 1h |https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt|
 | ✅ | 135 | 1h |https://cdn.jsdelivr.net/gh/Arianlavi/Rebeldev@main/RebelLink/all_subscriptions.txt|
-| ✅ | 820 | 1h |https://cdn.jsdelivr.net/gh/ALIILAPRO/v2rayNG-Config@main/server.txt|
-| ✅ | 19 | 6h |https://cdn.jsdelivr.net/gh/snakem982/proxypool@main/source/v2ray-2.txt|
+| ✅ | 852 | 1h |https://cdn.jsdelivr.net/gh/ALIILAPRO/v2rayNG-Config@main/server.txt|
+| ✅ | 6 | 6h |https://cdn.jsdelivr.net/gh/snakem982/proxypool@main/source/v2ray-2.txt|
 | ❌ | 0 | 1h |https://cdn.jsdelivr.net/gh/SamanGho/v2ray_collector@main/last_150.txt|
 | ✅ | 15 | 1h |https://cdn.jsdelivr.net/gh/penhandev/AutoAiVPN@main/AtuoAiVPN.txt|
 | ❌ | 0 | 1h |https://cdn.jsdelivr.net/gh/gongchandang49/TelegramV2rayCollector@main/sub/mix|
@@ -83,7 +83,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202605312|
 | ✅ | 178 | 1h |https://github.cmliussss.net/https://raw.githubusercontent.com/qmqv/jd07/refs/heads/main/v207-1010.txt|
 | ✅ | 315 | 1h |https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt|
-| ✅ | 136 | 1h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
+| ✅ | 185 | 1h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
 | ✅ | 1 | 1h |https://sub.proxygo.org/v2ray.php?key=191c91f624a800e83942463fd667bba5|
 | ✅ | 200 | 1h |https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity|
 | ✅ | 150 | 1h |https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt|
