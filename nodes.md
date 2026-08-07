@@ -10,7 +10,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 50 | 1h |https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/nodefree.txt|
 | ✅ | 0 | 1h |https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt|
 | ✅ | 17 | 1h |https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt|
-| ✅ | 9 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
+| ✅ | 10 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
 | ✅ | 70 | 1h |https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt|
 | ✅ | 74 | 1h |https://raw.githubusercontent.com/ccpthisbigdog/freedomchina/refs/heads/main/subdom.txt|
 | ✅ | 172 | 1h |https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt|
@@ -35,7 +35,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 580 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub1.txt|
 | ✅ | 600 | 1h |https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub2.txt|
 | ✅ | 6 | 1h |https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt|
-| ✅ | 607 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
+| ✅ | 602 | 1h |https://raw.githubusercontent.com/crackbest/V2ray-Config/refs/heads/main/config.txt|
 | ✅ | 3998 | 1h |https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2|
 | ✅ | 7 | 1h |https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt|
@@ -57,7 +57,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 261 | 1h |https://github.cmliussss.net/https://raw.githubusercontent.com/qmqv/jd07/refs/heads/main/v207-1010.txt|
 | ✅ | 172 | 1h |https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt|
 | ✅ | 201 | 1h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
-| ❌ | 0 | 1h |https://sub.proxygo.org/v2ray.php?key=191c91f624a800e83942463fd667bba5|
+| ✅ | 1 | 1h |https://sub.proxygo.org/v2ray.php?key=191c91f624a800e83942463fd667bba5|
 | ✅ | 200 | 1h |https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity|
 | ✅ | 150 | 1h |https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt|
 | ❌ | 0 | 1h |https://app.sublink.works/x/ZrVEXNV|
