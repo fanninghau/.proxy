@@ -25,8 +25,8 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 15 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vmess.txt|
 | ✅ | 24 | 1h |https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/trojan.txt|
 | ✅ | 369 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt|
-| ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt|
-| ✅ | 498 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt|
+| ✅ | 499 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt|
+| ✅ | 499 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt|
 | ✅ | 501 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt|
 | ✅ | 500 | 1h |https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt|
@@ -51,7 +51,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 150 | 1h |https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt|
 | ❌ | 0 | 1h |https://cdn.jsdelivr.net/gh/kort0881/vpn-key-vless@main/vpn-files/1.txt|
 | ❌ | 0 | 6h |https://cdn.jsdelivr.net/gh/kismetpro/NodeSuber@main/out/All_Configs_Sub.txt|
-| ✅ | 10 | 1h |https://cdn.jsdelivr.net/gh/Pawdroid/Free-servers@main/sub|
+| ✅ | 11 | 1h |https://cdn.jsdelivr.net/gh/Pawdroid/Free-servers@main/sub|
 | ✅ | 24 | 1h |https://cdn.jsdelivr.net/gh/mfuu/v2ray@master/v2ray|
 | ❌ | 0 | 1h |https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202605312|
 | ✅ | 261 | 1h |https://github.cmliussss.net/https://raw.githubusercontent.com/qmqv/jd07/refs/heads/main/v207-1010.txt|
@@ -63,11 +63,11 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ❌ | 0 | 1h |https://app.sublink.works/x/ZrVEXNV|
 | ❌ | 0 | 1h |https://gcore.jsdelivr.net/gh/aews/jd2/v20528.txt|
 | ✅ | 165 | 1h |https://mm.mibei77.com/202606/06.0564bacrt.txt|
-| ✅ | 42 | 1h |https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt|
+| ✅ | 9 | 1h |https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt|
 | ❌ | 0 | 1h |https://1jlSBG.tosslk.xyz/1ad6a0eb04fed3bebc67ebe358744716|
 | ❌ | 0 | 1h |https://blue2sea.com/clash/8139b9e7db860ec5e402d86564cd0b3b|
 | ✅ | 7 | 1h |https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt|
 | ✅ | 470 | 1h |https://raw.githubusercontent.com/wzmwayne/yoyapai-node/main/newest.txt|
-| ✅ | 710 | 1h |https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/nodes_base64.txt|
+| ✅ | 594 | 1h |https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/nodes_base64.txt|
 | ❌ | 0 | 1h |https://5QbRKv.tosslk.xyz/a3b52b12470986acb0652c4928087b97|
-| ✅ | 18 | 1h |https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt|
+| ✅ | 30 | 1h |https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt|
